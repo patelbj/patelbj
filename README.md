@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patelbj
+- 👋 Hi, I’m @patelb
 -
 - 🌱 I’m currently learning ansible and opened this account as a part of this training.
 - 💞️ I’m looking to collaborate on ...
